@@ -1,4 +1,4 @@
-module cloudy
+module github.com/puzzlepeaches/cloudy
 
 go 1.19
 
